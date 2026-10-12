@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "prestige_dawn_fix",
+  "version": "1.0.0",
+  "name": "Prestige Dawn Fix",
+  "description": "Disk bytecode stubs for MixinExtras generated LocalRef classes.",
+  "authors": [
+    "a010-00"
+  ],
+  "contact": {
+    "sources": "https://github.com/a010-00/prestige-dawn-fix"
+  },
+  "license": "MIT",
+  "environment": "*"
+}
